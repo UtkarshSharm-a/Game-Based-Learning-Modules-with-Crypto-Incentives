@@ -5,6 +5,8 @@ This project is a blockchain-based platform that combines educational game modul
 
 ## Contract Address
 0x8fEA8dF8155877f1D383ff4E9169d307bEb77041
+![image](https://github.com/user-attachments/assets/3780c41b-6a78-4103-82ac-af1842ad9d85)
+
 
 ## Project Vision
 The vision of this project is to revolutionize education by integrating gamification and cryptocurrency, creating a fun, engaging, and rewarding learning environment.
